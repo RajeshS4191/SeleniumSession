@@ -8,6 +8,8 @@ public class ArrayDemo
 	
 // syntax 1 = datatype [] arrayname = {value1, value2, value3, ...., Value n};
 		
+		System.out.println("New Line");
+		
 		int [] intArray = { 10,20,30,40,50,60};
 		
 // syntax 2 = datatype [] arrayname = new datatype [no of element to store the array];
